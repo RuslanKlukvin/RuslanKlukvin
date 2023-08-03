@@ -6,4 +6,6 @@
 -  JavaScript: [Репозиторий с дипломной работой](https://github.com/RuslanKlukvin/js-cp-diploma-edited)
 -  JavaScript в браузере: [Домашние задания JavaScript](https://github.com/RuslanKlukvin/bhj-homeworks)
 
-### Сертификаты: 
+### Сертификаты:
+
+-  JavaScript: [JavaScript-программирование для начинающих](https://github.com/RuslanKlukvin/RuslanKlukvin/blob/main/certificate.pdf) 
