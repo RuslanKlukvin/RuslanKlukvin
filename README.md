@@ -9,4 +9,4 @@
 
 ### Диплом:
 
--  JavaScript: ([JavaScript-программирование для начинающих((https://github.com/RuslanKlukvin/RuslanKlukvin/blob/main/certificate.pdf))
+-  JavaScript: [JavaScript-программирование для начинающих](https://github.com/RuslanKlukvin/RuslanKlukvin/blob/main/certificate.pdf)
