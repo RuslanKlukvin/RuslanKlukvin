@@ -3,7 +3,7 @@
 ### Вот мои работы: 
 
 -  Адаптивная мобильная вёрстка сайта на HTML и CSS: [Репозиторий с работой по адаптиву](https://github.com/RuslanKlukvin/MQ-Diploma)
--  JavaScript дипломная работа: [Репозиторий](https://github.com/RuslanKlukvin/js-cp-diploma-edited) сайт: (https://ruslanklukvin.github.io/js-cp-diploma-edited/)
+-  JavaScript дипломная работа: [Репозиторий](https://github.com/RuslanKlukvin/js-cp-diploma-edited) сайт: [диплом](https://ruslanklukvin.github.io/js-cp-diploma-edited/)
 -  JavaScript: [Репозиторий сайта Яндекс Практикум ](https://github.com/RuslanKlukvin/Procrastinate)
 -  JavaScript: [Домашние задания JavaScript в браузере](https://github.com/RuslanKlukvin/bhj-homeworks)
 
