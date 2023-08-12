@@ -4,7 +4,7 @@
 
 -  Адаптивная мобильная вёрстка сайта на HTML и CSS: [Репозиторий](https://github.com/RuslanKlukvin/MQ-Diploma) сайт [адаптив](https://ruslanklukvin.github.io/MQ-Diploma/)
 -  JavaScript дипломная работа: [Репозиторий](https://github.com/RuslanKlukvin/js-cp-diploma-edited) сайт: [диплом](https://ruslanklukvin.github.io/js-cp-diploma-edited/)
--  JavaScript: [Репозиторий сайта Яндекс Практикум ](https://github.com/RuslanKlukvin/Procrastinate)
+-  JavaScript: [Репозиторий](https://github.com/RuslanKlukvin/Procrastinate) сайт: [Яндекс Практикум](https://ruslanklukvin.github.io/Procrastinate/)
 -  JavaScript: [Домашние задания JavaScript в браузере](https://github.com/RuslanKlukvin/bhj-homeworks)
 
 ### Диплом:
