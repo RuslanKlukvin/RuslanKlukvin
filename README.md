@@ -4,12 +4,12 @@
 
 -  Сайт: [визитка](http://ruslanklukvin.tilda.ws/)
 -  Сайт с оригинальным контентом размещённый на CMS: [WordPress](https://siberwordpress.ru/)
--  Адаптивная мобильная вёрстка сайта на HTML и CSS: [Репозиторий](https://github.com/RuslanKlukvin/MQ-Diploma). Сайт: [адаптив](https://ruslanklukvin.github.io/MQ-Diploma/)
--  JavaScript дипломная работа: [Репозиторий](https://github.com/RuslanKlukvin/js-cp-diploma-edited). Сайт: [диплом](https://ruslanklukvin.github.io/js-cp-diploma-edited/)
+-  Адаптивная мобильная вёрстка сайта Нетологии на HTML и CSS: [Репозиторий](https://github.com/RuslanKlukvin/MQ-Diploma). Сайт: [адаптив](https://ruslanklukvin.github.io/MQ-Diploma/)
+-  JavaScript дипломная работа Нетологии: [Репозиторий](https://github.com/RuslanKlukvin/js-cp-diploma-edited). Сайт: [диплом](https://ruslanklukvin.github.io/js-cp-diploma-edited/)
 -  JavaScript: [сайт размещён на хостинге через ISPManager](https://www.xn--90anbvegee7h.xn--p1acf/)
 -  JavaScript: [сайт по макету Figma](https://www.xn--80afhjv6afck.xn--h1ahn.xn--p1acf/)
 -  JavaScript: [Репозиторий](https://github.com/RuslanKlukvin/Procrastinate). Сайт: [Яндекс Практикум](https://ruslanklukvin.github.io/Procrastinate/)
--  JavaScript: [Репозиторий домашние задания JavaScript в браузере](https://github.com/RuslanKlukvin/bhj-homeworks)
+-  JavaScript: [Репозиторий домашние задания Нетологии JavaScript в браузере](https://github.com/RuslanKlukvin/bhj-homeworks)
 
   
  ### Диплом:
