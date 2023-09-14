@@ -7,7 +7,7 @@
 -  лендинг с оригинальным контентом: [контентом](https://siberwordpress.ru/)
 -  Адаптивная мобильная вёрстка сайта Нетологии на HTML и CSS: [Репозиторий](https://github.com/RuslanKlukvin/MQ-Diploma). Сайт: [адаптив](https://ruslanklukvin.github.io/MQ-Diploma/)
 -  JavaScript дипломная работа Нетологии: [Репозиторий](https://github.com/RuslanKlukvin/js-cp-diploma-edited). Сайт: [диплом](https://ruslanklukvin.github.io/js-cp-diploma-edited/)
--  JavaScript: [сайт демо](http://xn--d1acvi.xn--h1ahn.xn--p1acf/)
+-  JavaScript сайт демо версия размещён на CMS: [ WordPress](http://xn--d1acvi.xn--h1ahn.xn--p1acf/)
 -  JavaScript: [сайт размещён на хостинге через ISPManager](https://www.xn--90anbvegee7h.xn--p1acf/)
 -  JavaScript: [сайт по макету Figma](https://www.xn--80afhjv6afck.xn--h1ahn.xn--p1acf/)
 -  JavaScript: [Репозиторий](https://github.com/RuslanKlukvin/Procrastinate). Сайт: [Яндекс Практикум](https://ruslanklukvin.github.io/Procrastinate/)
