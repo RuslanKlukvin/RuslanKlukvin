@@ -3,7 +3,7 @@
 ### Вот мои работы:  
 
 -  Сайт: [визитка](http://ruslanklukvin.tilda.ws/)
--  Сайт lpgenerator с интеграцией: [ bitrix24]( https://www.testlpgenerator.ru/novaya-stranitsa_1/) 
+-  Сайт на lpgenerator с интеграцией: [ bitrix24]( https://www.testlpgenerator.ru/novaya-stranitsa_1/) 
 -  лендинг по макету Figma: [тестовое задание Яндекс](https://xn--c1abdumkt1i.xn--h1ahn.xn--p1acf/)
 -  лендинг с оригинальным контентом: [контентом](https://ruslanklukvin.github.io/demosite/)
 -  Адаптивная мобильная вёрстка сайта Нетологии на HTML и CSS: [Репозиторий](https://github.com/RuslanKlukvin/MQ-Diploma). Сайт: [адаптив](https://ruslanklukvin.github.io/MQ-Diploma/)
