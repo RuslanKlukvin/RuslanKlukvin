@@ -4,7 +4,7 @@
 
 -  Сайт: [визитка](http://ruslanklukvin.tilda.ws/)
 -  лендинг по макету Figma: [тестовое задание Яндекс](https://xn--c1abdumkt1i.xn--h1ahn.xn--p1acf/)
--  лендинг с оригинальным контентом: [контентом](https://siberwordpress.ru/)
+-  лендинг с оригинальным контентом: [контентом](https://ruslanklukvin.github.io/demosite/)
 -  Адаптивная мобильная вёрстка сайта Нетологии на HTML и CSS: [Репозиторий](https://github.com/RuslanKlukvin/MQ-Diploma). Сайт: [адаптив](https://ruslanklukvin.github.io/MQ-Diploma/)
 -  JavaScript дипломная работа Нетологии: [Репозиторий](https://github.com/RuslanKlukvin/js-cp-diploma-edited). Сайт: [диплом](https://ruslanklukvin.github.io/js-cp-diploma-edited/)
 -  JavaScript сайт демо версия размещён на CMS: [ WordPress](http://xn--d1acvi.xn--h1ahn.xn--p1acf/)
