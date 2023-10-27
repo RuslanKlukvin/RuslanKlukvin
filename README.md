@@ -4,7 +4,7 @@
 
 -  Сайт: [визитка](http://ruslanklukvin.tilda.ws/)
 -  Сайт на lpgenerator с интеграцией: [ bitrix24]( https://www.testlpgenerator.ru/novaya-stranitsa_1/) 
--  лендинг по макету Figma: [тестовое задание Яндекс](https://xn--c1abdumkt1i.xn--h1ahn.xn--p1acf/)
+-  лендинг по макету [Figma](https://www.figma.com/file/W9gacDyHMIG55KuDwAN2Tl/go-scooter-pass?type=design&node-id=0-1&mode=design&t=EDeQyYLbRVthrAUi-0): [тестовое задание Яндекс](https://xn--c1abdumkt1i.xn--h1ahn.xn--p1acf/) 
 -  лендинг с оригинальным контентом: [контентом](https://ruslanklukvin.github.io/demosite/)
 -  Адаптивная мобильная вёрстка сайта Нетологии на HTML и CSS: [Репозиторий](https://github.com/RuslanKlukvin/MQ-Diploma). Сайт: [адаптив](https://ruslanklukvin.github.io/MQ-Diploma/)
 -  JavaScript дипломная работа Нетологии: [Репозиторий](https://github.com/RuslanKlukvin/js-cp-diploma-edited). Сайт: [диплом](https://ruslanklukvin.github.io/js-cp-diploma-edited/)
