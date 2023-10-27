@@ -10,7 +10,7 @@
 -  JavaScript дипломная работа Нетологии: [Репозиторий](https://github.com/RuslanKlukvin/js-cp-diploma-edited). Сайт: [диплом](https://ruslanklukvin.github.io/js-cp-diploma-edited/)
 -  JavaScript сайт демо версия размещён на CMS: [ WordPress](http://xn--d1acvi.xn--h1ahn.xn--p1acf/)
 -  JavaScript: [сайт размещён на хостинге через ISPManager](https://www.xn--90anbvegee7h.xn--p1acf/)
--  JavaScript: [сайт по макету Figma с использованием Bootstrap] (https://ruslanklukvin.github.io/figmaboots/) 
+-  JavaScript: [сайт по макету Figma с использованием Bootstrap](https://ruslanklukvin.github.io/figmaboots/) 
 -  JavaScript: [Репозиторий](https://github.com/RuslanKlukvin/Procrastinate). Сайт: [Яндекс Практикум](https://ruslanklukvin.github.io/Procrastinate/)
 -  JavaScript: [Репозиторий домашние задания Нетологии JavaScript в браузере](https://github.com/RuslanKlukvin/bhj-homeworks)
 
