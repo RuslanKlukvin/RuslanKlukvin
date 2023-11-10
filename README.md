@@ -3,7 +3,6 @@
 ### Вот мои работы:  
 
 -  Сайт: [визитка](http://ruslanklukvin.tilda.ws/)
--  Сайт на lpgenerator с интеграцией: [ bitrix24]( https://www.testlpgenerator.ru/novaya-stranitsa_1/) 
 -  лендинг по макету [Figma](https://www.figma.com/file/W9gacDyHMIG55KuDwAN2Tl/go-scooter-pass?type=design&node-id=0-1&mode=design&t=EDeQyYLbRVthrAUi-0): [тестовое задание Яндекс](https://ruslanklukvin.github.io/yago/)
 -  лендинг по макету [Figma](https://github.com/RuslanKlukvin/RuslanKlukvin/blob/main/ZlHL_Jo3fDA.jpg): [тестовое задание для Онлайн института](https://testklukvin.tilda.ws/)
 -  лендинг с оригинальным контентом: [контентом](https://ruslanklukvin.github.io/demosite/)
