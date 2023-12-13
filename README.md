@@ -2,10 +2,10 @@
 ###  Меня зовут Руслан Клюквин, Я frontend-разработчик
 ### Вот мои работы:  
 
--  Сайт: [визитка](http://ruslanklukvin.tilda.ws/)
+-  Сайт: [визитка на tilda](http://ruslanklukvin.tilda.ws/)
 -  Интернет магазин на CMS: [WordPress](https://imesale.ru/)
 -  лендинг по макету figma c использованием [SCSS](https://www.figma.com/file/W9gacDyHMIG55KuDwAN2Tl/go-scooter-pass?type=design&node-id=0-1&mode=design&t=EDeQyYLbRVthrAUi-0): [лендинг для Яндекс GO](https://ruslanklukvin.github.io/yago/)
--  лендинг по макету [Figma](https://github.com/RuslanKlukvin/RuslanKlukvin/blob/main/ZlHL_Jo3fDA.jpg): [ для Онлайн института](https://testklukvin.tilda.ws/)
+-  лендинг по макету [Figma](https://github.com/RuslanKlukvin/RuslanKlukvin/blob/main/ZlHL_Jo3fDA.jpg): [ для Онлайн института на tilda](https://testklukvin.tilda.ws/)
 -  лендинг с оригинальным контентом: [контентом](https://ruslanklukvin.github.io/demosite/)
 -  Адаптивная мобильная вёрстка сайта Нетологии на HTML и CSS: [Репозиторий](https://github.com/RuslanKlukvin/MQ-Diploma). Сайт: [адаптив](https://ruslanklukvin.github.io/MQ-Diploma/)
 -  JavaScript дипломная работа Нетологии: [Репозиторий](https://github.com/RuslanKlukvin/js-cp-diploma-edited). Сайт: [диплом](https://ruslanklukvin.github.io/js-cp-diploma-edited/)
