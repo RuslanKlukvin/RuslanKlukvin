@@ -15,6 +15,7 @@
 -  JavaScript: [сайт по макету Figma с использованием Bootstrap](https://ruslanklukvin.github.io/figmaboots/) 
 -  JavaScript: [Репозиторий](https://github.com/RuslanKlukvin/Procrastinate). Сайт: [Яндекс Практикум](https://ruslanklukvin.github.io/Procrastinate/)
 -  JavaScript: [Репозиторий домашние задания Нетологии JavaScript в браузере](https://github.com/RuslanKlukvin/bhj-homeworks)
+-  JavaScript: [Репозиторий проекта на React](https://github.com/RuslanKlukvin/Movie) Web-приложение выгружает данные по : [API](https://ruslanklukvin.github.io/Movie/)  
 
   
  ### Дипломы:
