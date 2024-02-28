@@ -10,7 +10,7 @@
 -  Адаптивная мобильная вёрстка сайта Нетологии на HTML и CSS: [Репозиторий](https://github.com/RuslanKlukvin/MQ-Diploma). Сайт: [адаптив](https://ruslanklukvin.github.io/MQ-Diploma/)
 -  JavaScript дипломная работа Нетологии: [Репозиторий](https://github.com/RuslanKlukvin/js-cp-diploma-edited). Сайт: [диплом](https://ruslanklukvin.github.io/js-cp-diploma-edited/)
 -  Сайт на HTML и CSS, JS, библеотека AOS: [Репозиторий](https://github.com/RuslanKlukvin/Portfolio/settings/pages) адаптивный [сайт](https://ruslanklukvin.github.io/Portfolio/)   
--  JavaScript сайт SCSS, Gulp, : [Репозиторий] (https://github.com/RuslanKlukvin/TravelX) библиотека  [swiperjs](https://ruslanklukvin.github.io/TravelX/)
+-  JavaScript сайт SCSS, Gulp, : [Репозиторий](https://github.com/RuslanKlukvin/TravelX) библиотека  [swiperjs](https://ruslanklukvin.github.io/TravelX/)
 -  JavaScript сайт: [ jquery](http://xn--d1acvi.xn--h1ahn.xn--p1acf/)
 -  JavaScript: [сайт по макету Figma с использованием Bootstrap](https://ruslanklukvin.github.io/figmaboots/) 
 -  JavaScript: [Репозиторий](https://github.com/RuslanKlukvin/Procrastinate). Сайт: [Яндекс Практикум](https://ruslanklukvin.github.io/Procrastinate/)
