@@ -15,7 +15,6 @@
 -  JavaScript сайт: [ jquery](http://xn--d1acvi.xn--h1ahn.xn--p1acf/)
 -  JavaScript: [сайт по макету Figma с использованием Bootstrap](https://ruslanklukvin.github.io/figmaboots/) 
 -  JavaScript: [Репозиторий](https://github.com/RuslanKlukvin/Procrastinate). Сайт: [Яндекс Практикум](https://ruslanklukvin.github.io/Procrastinate/)
--  JavaScript: [Репозиторий домашние задания Нетологии JavaScript в браузере](https://github.com/RuslanKlukvin/bhj-homeworks)
 -  React: [Репозиторий проекта на React](https://github.com/RuslanKlukvin/Movie). Данные по API загружаются на страницу [Web-приложения](https://ruslanklukvin.github.io/Movie/)  
 
   
