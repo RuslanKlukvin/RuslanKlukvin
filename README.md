@@ -12,6 +12,7 @@
 -  Сайт на HTML и CSS, JS, библеотека AOS: [Репозиторий](https://github.com/RuslanKlukvin/Portfolio/settings/pages) адаптивный [сайт](https://ruslanklukvin.github.io/Portfolio/)
 -  JavaScript, HTML и CSS: [Репозиторий](https://github.com/RuslanKlukvin/Airpods) адаптивный [сайт](https://ruslanklukvin.github.io/Airpods/)
 -  JavaScript сайт SCSS, Gulp, : [Репозиторий](https://github.com/RuslanKlukvin/TravelX) библиотека  [swiperjs](https://ruslanklukvin.github.io/TravelX/)
+-  JavaScript, HTML, CSS: [Репозиторий](https://github.com/RuslanKlukvin/Tea) адаптивный [лэндинг](https://ruslanklukvin.github.io/Tea/)
 -  JavaScript сайт: [ jquery](http://xn--d1acvi.xn--h1ahn.xn--p1acf/)
 -  JavaScript: [сайт по макету Figma с использованием Bootstrap](https://ruslanklukvin.github.io/figmaboots/) 
 -  JavaScript: [Репозиторий](https://github.com/RuslanKlukvin/Procrastinate). Сайт: [Яндекс Практикум](https://ruslanklukvin.github.io/Procrastinate/)
